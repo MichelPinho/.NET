@@ -1,0 +1,16 @@
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\bin\Debug\net5.0\ex001.exe
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\bin\Debug\net5.0\ex001.deps.json
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\bin\Debug\net5.0\ex001.runtimeconfig.json
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\bin\Debug\net5.0\ex001.runtimeconfig.dev.json
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\bin\Debug\net5.0\ex001.dll
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\bin\Debug\net5.0\ref\ex001.dll
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\bin\Debug\net5.0\ex001.pdb
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ex001.csprojAssemblyReference.cache
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ex001.AssemblyInfoInputs.cache
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ex001.AssemblyInfo.cs
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ex001.csproj.CoreCompileInputs.cache
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ex001.dll
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ref\ex001.dll
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ex001.pdb
+C:\Users\pec\Documents\MeusProjetos\.NET\ex001\obj\Debug\net5.0\ex001.genruntimeconfig.cache
